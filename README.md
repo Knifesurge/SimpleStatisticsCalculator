@@ -14,6 +14,14 @@ Can calculate:
 You can also specify the number of data points you would like to enter instead of being trapped at some 
 abitrary number (like N=10).
 
+## Requirements
+
+Python 3.7
+
+## How to Run
+
+Download this repo to your computer and double-click the `Statistics_Calculator.py` file. You can also run this on the command line by `python Statistics_Calculator.py`.
+
 ## Contact
 
 I can be reached by email at carlos94563@gmail.com. If you have any suggestions or would like to contribute 

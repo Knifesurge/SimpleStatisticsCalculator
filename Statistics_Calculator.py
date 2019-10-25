@@ -42,3 +42,5 @@ print(f'Std. Deviation: {std_dev}')
 print(f'Std. Dev. of the Mean: {std_dev_mean}')
 print(f'Optimal Trials: {n_optimal}')
 print(f'Uncertainty: {uncertainty}')
+
+input("\n\nPress ENTER to quit")
